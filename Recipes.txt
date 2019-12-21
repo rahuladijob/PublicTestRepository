@@ -10,3 +10,7 @@ Lunch:
 Rice
 Dal
 Palak Sabaji
+
+Dinner:
+Roti
+Sabaji
