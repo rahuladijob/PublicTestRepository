@@ -1,7 +1,7 @@
 
 Adding Recipes First Time:
 
-VEG ONLY ???
+VEG -
 Break Fast:
 Khir
 Poha
@@ -19,4 +19,13 @@ Sabaji
 Khichadi
 
 
-COMING SOON nOn VeG
+
+NON VEG -
+Break Fast:
+Chicken Soup
+Chicken Kheema Frankie
+
+Lunch:
+Mutton Biryani
+Chicken Biryani
+
