@@ -29,3 +29,7 @@ Lunch:
 Mutton Biryani
 Chicken Biryani
 
+Dinner:
+Mutton Paya Soup
+Chicken Nuggets
+
