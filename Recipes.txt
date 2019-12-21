@@ -23,3 +23,8 @@ NON VEG -
 Break Fast:
 Chicken Soup
 Chicken Kheema Frankie
+
+Lunch:
+Mutton Biryani
+Chicken Biryani
+
