@@ -1,6 +1,7 @@
 
 Adding Recipes First Time:
 
+VEG -
 Break Fast:
 Khir
 Poha
@@ -16,3 +17,9 @@ Dinner:
 Roti
 Sabaji
 Khichadi
+
+
+NON VEG -
+Break Fast:
+Chicken Soup
+Chicken Kheema Frankie
